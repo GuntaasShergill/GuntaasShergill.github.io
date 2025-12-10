@@ -191,6 +191,20 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _posts/ #custom
+  - _news/ #custom
+  - _projects/ #custom
+  - _bibliography/ #custom
+  - _pages/blog.md #custom
+  - _pages/about_einsten.md #custom
+  - _pages/cv.md #custom
+  - _pages/dropdown.md #custom
+  - _pages/news.md #custom
+  - _pages/profiles.md #custom
+  - _pages/projects.md #custom
+  - _pages/publications.md #custom
+  - _pages/repositories.md #custom
+  - _pages/teaching.md #custom
 keep_files:
   - CNAME
   - .nojekyll
