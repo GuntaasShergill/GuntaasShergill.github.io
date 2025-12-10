@@ -35,3 +35,4 @@ Current Projects (as a Lead)
 - CFTR variant discovery and pathogenicity testing using large public genomic databases [Funded by a Cystic Fibrosis Student Traineeship Grant]
 - Designing candidate guide RNAs for a CF gene editing cure and assessing off-target effects [Funded by a Cystic Fibrosis Student Traineeship Grant]
 
+Going forward, during my doctoral studies, I am interested in pursuing the development of deep learning architectures to advance biology and medicine.
