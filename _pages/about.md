@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: prof_pic_final.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  Guntaas@wustl.edu
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Guntaas. I work as a research technician II in the [Polineni Lab](https://pediatricallergypulmonary.wustl.edu/items/polineni-lab/) @ Washington University in St. Louis, where I perform computational research pertinent to Cystic Fibrosis (CF). I am concurrently a master's student in the Biomedical Informatics program in the Institute for Informatics, Data Science & Biostatistics @ Washington University in St. Louis. During this master's, I have performed research with the [Li Lab](https://fuhailiailab.github.io) for development of novel deep learning architecture for inferrence of molecular signaling across disease and cell-states.
+Hi, I'm Guntaas. I work as a research technician II in the [Polineni Lab](https://pediatricallergypulmonary.wustl.edu/items/polineni-lab/) @ WashU, where I perform computational research pertinent to Cystic Fibrosis (CF). I am concurrently a master's student in the Biomedical Informatics program in [I2DB @ WashU](https://i2db.wustl.edu) . As a part of my master's, I perform research with the [Li Lab](https://fuhailiailab.github.io) for development of novel deep learning architecture for inferrence of molecular signaling across disease and cell-states.
 
 Past Projects (as a Lead)
 - identify optimal insertion sites for a superexon gene editing cure in CF
