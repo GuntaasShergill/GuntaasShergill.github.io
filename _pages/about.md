@@ -8,7 +8,7 @@ profile:
   image: prof_pic_final.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-  <p>Guntaas@wustl.edu<p>
+    <p>Guntaas@wustl.edu<p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -35,4 +35,3 @@ Current Projects (as a Lead)
 - CFTR variant discovery and pathogenicity testing using large public genomic databases [Funded by a Cystic Fibrosis Student Traineeship Grant]
 - Designing candidate guide RNAs for a CF gene editing cure and assessing off-target effects [Funded by a Cystic Fibrosis Student Traineeship Grant]
 
-Please feel free to reach out to me at ShergillGuntaas@gmail.com or Guntaas@wustl.edu 
