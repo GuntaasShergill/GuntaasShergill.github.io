@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Washington University School of Medicine in St.Louis
+subtitle: Washington University School of Medicine in St. Louis
 profile:
   align: right
   image: prof_pic_final.jpg
@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Guntaas. I work as a research technician II in the [Polineni Lab](https://pediatricallergypulmonary.wustl.edu/items/polineni-lab/) @ WashU, where I perform computational research pertinent to Cystic Fibrosis (CF). The following are a list of projects I have led or am leading within my role in the Polineni Lab.
+Hi, I'm Guntaas. I work as a research technician II in the [Polineni Lab](https://pediatricallergypulmonary.wustl.edu/items/polineni-lab/) @ WashU, where I perform computational research pertinent to Cystic Fibrosis (CF). The following are a list of projects I have led or am activing leading within this role.
 
 Past Projects
 - Identified optimal insertion sites for a superexon gene editing cure in CF
@@ -37,6 +37,6 @@ Current Projects
 - CFTR variant discovery and pathogenicity testing using large public genomic databases [Funded by a Cystic Fibrosis Student Traineeship Grant I received]
 - Designing candidate guide RNAs for a CF gene editing cure and assessing off-target effects [Funded by a Cystic Fibrosis Student Traineeship Grant I received]
 
-I am also a master's student in the [WashU I2DB](https://i2db.wustl.edu) Biomedical Informatics program. I perform my master's research with the [Li Lab](https://fuhailiailab.github.io), contributing to the development of novel deep learning architecture for inferrence of molecular signaling across disease and cell-states.
+I am also a master's student within the [WashU I2DB](https://i2db.wustl.edu) Biomedical Informatics program. I perform my master's research with the [Li Lab](https://fuhailiailab.github.io), contributing to the development of novel deep learning architecture for inferrence of molecular signaling across disease and cell-states.
 
-I am interested in the development of deep learning models and methodologies to maximize extraction of information from large-scale data, thereby advancing biology and medicine.
+I am interested in developing of deep learning models and methodologies to maximize extraction of information from large-scale data, thereby advancing biology and medicine.
