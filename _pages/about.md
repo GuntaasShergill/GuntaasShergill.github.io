@@ -8,7 +8,7 @@ profile:
   image: prof_pic_final.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>style="text-align: center;">Guntaas@wustl.edu<p>
+    <p>Guntaas@wustl.edu<p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -24,15 +24,17 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Guntaas. I work as a research technician II in the [Polineni Lab](https://pediatricallergypulmonary.wustl.edu/items/polineni-lab/) @ WashU, where I perform computational research pertinent to Cystic Fibrosis (CF). I am concurrently a master's student in the Biomedical Informatics program in [I2DB @ WashU](https://i2db.wustl.edu) . As a part of my master's, I perform research with the [Li Lab](https://fuhailiailab.github.io) for development of novel deep learning architecture for inferrence of molecular signaling across disease and cell-states.
+Hi, I'm Guntaas. I work as a research technician II in the [Polineni Lab](https://pediatricallergypulmonary.wustl.edu/items/polineni-lab/) @ WashU, where I perform computational research pertinent to Cystic Fibrosis (CF). The following are a list of projects I have led or am leading within my role in the Polineni Lab.
 
-Past Projects (as a Lead)
+Past Projects
 - identified optimal insertion sites for a superexon gene editing cure in CF
 - created a lung disease severity tool for people with CF
 
-Current Projects (as a Lead)
+Current Projects
 - designing deep learning architecture to infer the multi-omic molecular signaling that dictates inflammation in people with CF
 - CFTR variant discovery and pathogenicity testing using large public genomic databases [Funded by a Cystic Fibrosis Student Traineeship Grant]
 - Designing candidate guide RNAs for a CF gene editing cure and assessing off-target effects [Funded by a Cystic Fibrosis Student Traineeship Grant]
 
-Going forward, during my doctoral studies, I am interested in pursuing the development of deep learning architectures to advance biology and medicine.
+I am also a master's student in the Biomedical Informatics program in [I2DB @ WashU](https://i2db.wustl.edu). I perform my master's research with the [Li Lab](https://fuhailiailab.github.io), contributing to the development of novel deep learning architecture for inferrence of molecular signaling across disease and cell-states.
+
+In my prospective doctoral studies, I am interested in pursuing the development of deep learning architectures to advance biology and medicine.
