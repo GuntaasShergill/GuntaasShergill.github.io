@@ -9,7 +9,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <div style="text-align: center;">
-      <p>Guntaas@wustl.edu</p> 
+      <p>guntaas@wustl.edu</p> 
     </div>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
