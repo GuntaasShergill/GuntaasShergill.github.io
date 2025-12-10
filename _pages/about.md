@@ -29,11 +29,11 @@ latest_posts:
 Hi, I'm Guntaas. I work as a research technician II in the [Polineni Lab](https://pediatricallergypulmonary.wustl.edu/items/polineni-lab/) @ WashU, where I perform computational research pertinent to Cystic Fibrosis (CF). The following are a list of projects I have led or am leading within my role in the Polineni Lab.
 
 Past Projects
-- identified optimal insertion sites for a superexon gene editing cure in CF
-- created a lung disease severity tool for people with CF
+- Identified optimal insertion sites for a superexon gene editing cure in CF
+- Created a lung disease severity tool for people with CF
 
 Current Projects
-- designing deep learning architecture to infer the multi-omic molecular signaling that dictates inflammation in people with CF
+- Designing deep learning architecture to infer the multi-omic molecular signaling that dictates inflammation in people with CF
 - CFTR variant discovery and pathogenicity testing using large public genomic databases [Funded by a Cystic Fibrosis Student Traineeship Grant]
 - Designing candidate guide RNAs for a CF gene editing cure and assessing off-target effects [Funded by a Cystic Fibrosis Student Traineeship Grant]
 
