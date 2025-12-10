@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://GuntaasShergill-backup.github.io/sitemap.xml
+Sitemap: https://GuntaasShergill.github.io/sitemap.xml
