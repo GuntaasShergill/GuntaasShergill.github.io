@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_final.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
@@ -27,7 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I'm Guntaas. I work as a research technician II in the [Polineni Lab](https://pediatricallergypulmonary.wustl.edu/items/polineni-lab/) @ Washington University in St. Louis, where I perform computational research pertinent to Cystic Fibrosis. I am concurrently a master's student in the Biomedical Informatics program in the Institute for Informatics, Data Science & Biostatistics @ Washington University in St. Louis. During this master's, I have performed research with the [Li Lab](https://fuhailiailab.github.io) for development of novel deep learning architecture for inferrence of molecular signaling across disease and cell-states.
+
+I am interested in creating deep learning architecture for advancement of biology and medicine 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
