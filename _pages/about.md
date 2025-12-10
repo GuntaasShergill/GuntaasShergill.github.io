@@ -8,7 +8,7 @@ profile:
   image: prof_pic_final.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Guntaas@wustl.edu<p>
+    <p>style="text-align: center;">Guntaas@wustl.edu<p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,8 @@ latest_posts:
 Hi, I'm Guntaas. I work as a research technician II in the [Polineni Lab](https://pediatricallergypulmonary.wustl.edu/items/polineni-lab/) @ WashU, where I perform computational research pertinent to Cystic Fibrosis (CF). I am concurrently a master's student in the Biomedical Informatics program in [I2DB @ WashU](https://i2db.wustl.edu) . As a part of my master's, I perform research with the [Li Lab](https://fuhailiailab.github.io) for development of novel deep learning architecture for inferrence of molecular signaling across disease and cell-states.
 
 Past Projects (as a Lead)
-- identify optimal insertion sites for a superexon gene editing cure in CF
-- create a lung disease severity tool for people with CF
+- identified optimal insertion sites for a superexon gene editing cure in CF
+- created a lung disease severity tool for people with CF
 
 Current Projects (as a Lead)
 - designing deep learning architecture to infer the multi-omic molecular signaling that dictates inflammation in people with CF
