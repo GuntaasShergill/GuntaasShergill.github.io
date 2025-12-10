@@ -34,8 +34,8 @@ Past Projects
 
 Current Projects
 - Designing deep learning architecture to infer the multi-omic molecular signaling that dictates inflammation in people with CF
-- CFTR variant discovery and pathogenicity testing using large public genomic databases [Funded by a Cystic Fibrosis Student Traineeship Grant]
-- Designing candidate guide RNAs for a CF gene editing cure and assessing off-target effects [Funded by a Cystic Fibrosis Student Traineeship Grant]
+- CFTR variant discovery and pathogenicity testing using large public genomic databases [Funded by a Cystic Fibrosis Student Traineeship Grant I received]
+- Designing candidate guide RNAs for a CF gene editing cure and assessing off-target effects [Funded by a Cystic Fibrosis Student Traineeship Grant I received]
 
 I am also a master's student in the [WashU I2DB](https://i2db.wustl.edu) Biomedical Informatics program. I perform my master's research with the [Li Lab](https://fuhailiailab.github.io), contributing to the development of novel deep learning architecture for inferrence of molecular signaling across disease and cell-states.
 
