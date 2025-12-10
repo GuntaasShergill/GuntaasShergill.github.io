@@ -37,4 +37,4 @@ Current Projects
 
 I am also a master's student in the [WashU I2DB](https://i2db.wustl.edu) Biomedical Informatics program. I perform my master's research with the [Li Lab](https://fuhailiailab.github.io), contributing to the development of novel deep learning architecture for inferrence of molecular signaling across disease and cell-states.
 
-In my prospective doctoral studies, I am interested in pursuing the development of deep learning models and methodologies to advance biology and medicine.
+I am interested in the development of deep learning models and methodologies, that will allow us to maximize extraction of information from large-scale data, thereby advancing biology and medicine.
