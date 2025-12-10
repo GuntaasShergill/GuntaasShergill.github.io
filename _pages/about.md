@@ -8,7 +8,9 @@ profile:
   image: prof_pic_final.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>style="text-align: center;">Guntaas@wustl.edu<p>
+    <div style="text-align: center;">
+      <p>Guntaas@wustl.edu</p> 
+    </div>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
