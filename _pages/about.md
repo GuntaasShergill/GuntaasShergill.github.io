@@ -27,10 +27,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Guntaas. I work as a research technician II in the [Polineni Lab](https://pediatricallergypulmonary.wustl.edu/items/polineni-lab/) @ Washington University in St. Louis, where I perform computational research pertinent to Cystic Fibrosis. I am concurrently a master's student in the Biomedical Informatics program in the Institute for Informatics, Data Science & Biostatistics @ Washington University in St. Louis. During this master's, I have performed research with the [Li Lab](https://fuhailiailab.github.io) for development of novel deep learning architecture for inferrence of molecular signaling across disease and cell-states.
+Hi, I'm Guntaas. I work as a research technician II in the [Polineni Lab](https://pediatricallergypulmonary.wustl.edu/items/polineni-lab/) @ Washington University in St. Louis, where I perform computational research pertinent to Cystic Fibrosis (CF). I am concurrently a master's student in the Biomedical Informatics program in the Institute for Informatics, Data Science & Biostatistics @ Washington University in St. Louis. During this master's, I have performed research with the [Li Lab](https://fuhailiailab.github.io) for development of novel deep learning architecture for inferrence of molecular signaling across disease and cell-states.
 
-I am interested in creating deep learning architecture for advancement of biology and medicine 
+Past Projects (as a Lead)
+- identify optimal insertion sites for a superexon gene editing cure in CF
+- create a lung disease severity tool for people with CF
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Current Projects (as a Lead)
+- designing deep learning architecture to infer the multi-omic molecular signaling that dictates inflammation in people with CF
+- CFTR variant discovery and pathogenicity testing using large public genomic databases [Funded by a Cystic Fibrosis Student Traineeship Grant]
+- Designing candidate guide RNAs for a CF gene editing cure and assessing off-target effects [Funded by a Cystic Fibrosis Student Traineeship Grant]
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Please feel free to reach out to me at ShergillGuntaas@gmail.com or Guntaas@wustl.edu 
