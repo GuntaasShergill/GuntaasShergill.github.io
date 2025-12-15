@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Guntaas. I work as a research technician II in the [Polineni Lab](https://pediatricallergypulmonary.wustl.edu/items/polineni-lab/) @ WashU, where I perform computational research pertinent to Cystic Fibrosis (CF). The following are a list of projects I have led or am activing leading within this role.
+Hi, I'm Guntaas. I work as a research technician II in the [Polineni Lab](https://pediatricallergypulmonary.wustl.edu/items/polineni-lab/) @ WashU, where I perform computational research pertinent to Cystic Fibrosis (CF). The following are a list of projects I have led or am actively leading within this role.
 
 Past Projects
 - Identified optimal insertion sites for a superexon gene editing cure in CF
